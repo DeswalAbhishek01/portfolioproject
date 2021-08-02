@@ -1,4 +1,6 @@
 -- FirstPortFolioProject made by watching tutorials of ALEX THE ANALYST do check out his youtube channel
+--Here is the visualization
+https://public.tableau.com/views/PortFolioProjectCovidData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 select * 
