@@ -1,3 +1,8 @@
+-- Here the Visualization
+https://public.tableau.com/views/IndiaCovid19Data_16277956752700/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
 select * 
 from portfolioproject.dbo.indiacovid$;
 
